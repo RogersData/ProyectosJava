@@ -1,0 +1,39 @@
+Credenciales para Paciente = 
+
+DNI : 12345678
+CLAVE : 123
+
+DNI : 87654321
+CLAVE : 1234
+
+DNI : 11223344
+CLAVE : 12345
+
+
+Credenciales para Doctor = 
+
+DNI : 12345324
+CLAVE : 123
+
+DNI : 67534356
+CLAVE : 1234
+
+DNI : 12575435
+CLAVE : 12345
+
+Credenciales para Administrador = 
+
+DNI : 98746356
+CLAVE : 123
+
+DNI : 98634673
+CLAVE : 1234
+
+DNI : 18473547
+CLAVE : 12345
+
+
+
+
+
+
